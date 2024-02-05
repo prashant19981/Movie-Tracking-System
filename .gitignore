@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# Editor
+.vscode/
+.idea/
+
+# Build output
+/build/
+
+# Environment variables
+.env
+
+# npm
+npm-debug.log
